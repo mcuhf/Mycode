@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-集合/01-集合.iml" filepath="$PROJECT_DIR$/01-集合/01-集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-集合排序/02-集合排序.iml" filepath="$PROJECT_DIR$/02-集合排序/02-集合排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-泛型/03-泛型.iml" filepath="$PROJECT_DIR$/03-泛型/03-泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-多线程/04-多线程.iml" filepath="$PROJECT_DIR$/04-多线程/04-多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-文件IO/05-文件IO.iml" filepath="$PROJECT_DIR$/05-文件IO/05-文件IO.iml" />
+    </modules>
+  </component>
+</project>
